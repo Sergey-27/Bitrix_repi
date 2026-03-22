@@ -5,7 +5,7 @@
     <title><?=$arResult["TITLE"]?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <!-- Ваши CSS-файлы -->
+    
 </head>
 <body>
 <div class="contact-form">
